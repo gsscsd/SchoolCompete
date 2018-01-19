@@ -1,1 +1,1 @@
-this is a new_b txt
+Creating a new branch is quick & simple.
